@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18991" started-at="2019-07-18T06:55:35Z" finished-at="2019-07-18T06:55:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18991" started-at="2019-07-18T06:55:35Z" finished-at="2019-07-18T06:55:54Z">
+      <class name="test.FillForm">
+        <test-method status="PASS" signature="OpenBrowser()[pri:1, instance:test.FillForm@735b5592]" name="OpenBrowser" duration-ms="16179" started-at="2019-07-18T06:55:35Z" finished-at="2019-07-18T06:55:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="VerifyHomepageTitle()[pri:2, instance:test.FillForm@735b5592]" name="VerifyHomepageTitle" duration-ms="56" started-at="2019-07-18T06:55:51Z" finished-at="2019-07-18T06:55:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHomepageTitle -->
+        <test-method status="PASS" signature="FillForms()[pri:3, instance:test.FillForm@735b5592]" name="FillForms" duration-ms="2597" started-at="2019-07-18T06:55:51Z" finished-at="2019-07-18T06:55:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FillForms -->
+        <test-method status="PASS" signature="VerifySuccessMessage()[pri:4, instance:test.FillForm@735b5592]" name="VerifySuccessMessage" duration-ms="78" started-at="2019-07-18T06:55:54Z" finished-at="2019-07-18T06:55:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySuccessMessage -->
+      </class> <!-- test.FillForm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
